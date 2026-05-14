@@ -18,6 +18,9 @@ The first repository of Connor. Have a nice day!
 - Create an API key
 - Copy-Pasted OpenAI Codex API key onto Cursort's Agents 
 - Committed changes to this file
+- Copy permalink
+- Made sure you can open it by searching if there's a public/private toggle
+- Sent it over to you
 ## What issues you ran into and how you solved them
 - the first problem is how to write in code to make this Readme look better.
 - I couldn't find extensions on Cursor
